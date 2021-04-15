@@ -1,10 +1,12 @@
 ref:
+https://google.github.io/googletest/ (가이드 확인)
 
 https://www.youtube.com/watch?v=0wMNtl2xDT0
 
 bazel plugin:
 
 https://marketplace.visualstudio.com/items?itemName=BazelBuild.vscode-bazel
+(관련파일 템플릿 추가, cmd+shift+p 에 bazel 관련 메뉴들 추가)
 
 install go first then install buildifier
 brew install buildifier
